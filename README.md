@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./src/assets/logo-light.svg" alt="Elibabah" width="100" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./src/assets/logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./src/assets/logo-light.svg">
+    <img alt="Elibabah" src="./src/assets/logo-light.svg" width="100">
+</picture>
 </p>
 
 <h1 align="center">Hi there, I'm Elías 👋</h1>
