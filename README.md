@@ -1,12 +1,3 @@
-<h2 align="center">Hi there! I'm Elibabah!</h2><h3 align="center">Frontend developer & linguist</h3>
-
-<!--<p align="center"><img align="center" src="https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/coded-data-cuted.gif" alt="elibabah's world" width="100%"/></p>-->
-
-![Header](https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/binary-hello-world.jpg)
-<!--![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/three-worlds.jpg)-->
-<!--<p align="center"><img align="center" src="https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg" alt="elibabah's world" width="80%" /></p>-->
-<!--[![Header](https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/binary-hello-world.jpg "Elibabah's World")](https://www.linkedin.com/in/elías-hernández-elibabah-5b85b5100/)-->
-
 <p align="center">
 <a href="https://www.linkedin.com/in/elibabah/" target="_blank" style="margin: 0 20px;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elibabah" height="20" width="20" /></a>
@@ -18,10 +9,11 @@
 <h3 align="center">Hello, World!</h3>
 I'm a frontend developer, linguist and father. I am interested in data-science and artificial intelligence. I am in love with literature, philosophy, math, and physics. I believe in humanity and always remember this:
 
-> Nothing human is alien to me. — Publio
-___
+<h1 align="center">Hi there, I'm Elías 👋</h1>
 
+<p align="center"><strong>Frontend Engineer · Based in New Zealand · Open to local opportunities</strong></p>
 
+<p align="center"><sub>also known as <strong>Elibabah</strong></sub></p>
 
 <h3 align="center">Languages & Tools:</h3>
 <p>
@@ -45,50 +37,49 @@ ___
    
 </p>
 
-<h3 align="center">My GitHub Stats 📊</h3>
-<!--<p align="center"><img align="center" src="https://raw.githubusercontent.com/Elibabah/Elibabah/main/assets/coded-data-stats.gif" alt="elibabah-binary width="150%"/></p>-->
+---
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elibabah&layout=compact&img_align="center")](https://github.com/anuraghazra/github-readme-stats-->
+### About
 
+I'm a frontend engineer currently living in **New Zealand**. I build interfaces with a focus on craft, clarity, and maintainability; I care as much about the architecture of a component as about the experience it creates.
 
+I am presently working remotely as a frontend engineer for **BBVA**, and I am actively open to frontend roles based in **New Zealand**. If you are hiring locally, I would be glad to talk.
 
-<!--![Elibabah's GitHub stats](https://github-readme-stats.vercel.app/api?username=elibabah&count_private=true&locale=en&show_icons=true&theme=radical)-->
+I am also completing a **Master of Applied Management at the Southern Institute of Technology (SIT)**, which I will finish in December 2026. The degree has sharpened how I connect technical work to broader questions of strategy, value, and human practice.
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=elibabah&count_private=true&locale=en&show_icons=true&theme=radical" alt="commits-stats" width="55%"/></p>
+Before software, I trained as a linguist and literary scholar. That shaped how I think: I read code the way I once read texts, attentive to structure, intention, and meaning. I believe good engineering, like good writing, is a matter of precision, rhythm, and care.
 
-<p align="right"><img align="rigth" src="https://raw.githubusercontent.com/Elibabah/elibabah/release/src/assets/DetailedPotableBobolink-size_restricted.gif" alt="elibabah-binary" width="39%" /></p>
+> *Homo sum, humani nihil a me alienum puto.* — Terence
 
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elibabah&theme=dark" alt="elibabah" width="55%"/></p>
+---
 
-<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elibabah&theme=dark&layout=compact" alt="elibabah-stats" width="38%"/></p>
-<div style="color:#FFF">
+### What I work with
 
-.  
-.   
-.   
-.   
-.   
-.   
-.   
-.   
-.
-  
-   
-</div>
-<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elibabah&theme=monokai)-->
+**Core:** JavaScript · TypeScript · Web Components · Lit
+**Frameworks:** React · Next.js
+**Also:** HTML · CSS · Git · CI/CD · Node.js
 
-<p align="center"><img align="center" style="margin-top:0%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elibabah&theme=monokai" alt="elibabah's" width="85%"/></p>
+I am currently deepening my work with React and Next.js, and exploring how AI is reshaping the practice of software development.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,nodejs,git" alt="tech stack" />
+</p>
 
+---
 
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=elibabah&)-->
+### Most used languages
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elibabah&layout=compact&hide_border=true&theme=transparent" alt="most used languages" />
+</p>
+
+---
+
+<p align="center">
+  <p align="center"><strong>Why "Elibabah"?</strong></p>
+</p>
+<p align="center">
+  <sub>
+  Elías meets <em>Ali Baba</em>, from <em>One Thousand and One Nights.</em> In the tale, the right words open the cave; in code, the right words open everything else.
+  </sub>
+</p>
