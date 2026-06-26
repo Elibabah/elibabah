@@ -37,7 +37,9 @@ Before software, I trained as a linguist and literary scholar. That shaped how I
 ### What I work with
 
 **Core:** JavaScript · TypeScript · Web Components · Lit
+
 **Frameworks:** React · Next.js
+
 **Also:** HTML · CSS · Git · CI/CD · Node.js
 
 I am currently deepening my work with React and Next.js, and exploring how AI is reshaping the practice of software development.
