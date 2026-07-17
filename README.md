@@ -51,7 +51,7 @@ I am currently deepening my work with React and Next.js, and exploring how AI is
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats-coral-theta-49.vercel.app/api/top-langs/?username=elibabah&layout=compact&hide_border=true&theme=transparent" alt="most used languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Elibabah&layout=compact&langs_count=6&theme=transparent" alt="most used languages" />
 </p>
 
 ---
