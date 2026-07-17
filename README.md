@@ -45,15 +45,13 @@ Before software, I trained as a linguist and literary scholar. That shaped how I
 I am currently deepening my work with React and Next.js, and exploring how AI is reshaping the practice of software development.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,nodejs,git" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,lit,react,nextjs,html,css,nodejs,git" alt="tech stack" />
 </p>
 
 ---
 
-### Most used languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elibabah&layout=compact&hide_border=true&theme=transparent" alt="most used languages" />
+  <img src="https://github-readme-stats-coral-theta-49.vercel.app/api/top-langs/?username=elibabah&layout=compact&hide_border=true&theme=transparent" alt="most used languages" />
 </p>
 
 ---
@@ -61,6 +59,7 @@ I am currently deepening my work with React and Next.js, and exploring how AI is
 <p align="center">
   <p align="center"><strong>Why "Elibabah"?</strong></p>
 </p>
+
 <p align="center">
   <sub>
   Elías meets <em>Ali Baba</em>, from <em>One Thousand and One Nights.</em> In the tale, the right words open the cave; in code, the right words open everything else.

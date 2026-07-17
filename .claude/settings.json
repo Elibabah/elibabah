@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" \"https://github-readme-stats.vercel.app/api/top-langs/?username=elibabah&layout=compact&hide_border=true&theme=transparent\")",
+      "Bash(curl -s \"https://github-readme-stats.vercel.app/api/top-langs/?username=elibabah&layout=compact&hide_border=true&theme=transparent\")",
+      "Bash(gh auth *)",
+      "mcp__claude_ai_Vercel__list_teams",
+      "mcp__claude_ai_Vercel__list_projects",
+      "mcp__claude_ai_Vercel__list_deployments",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" \"https://github-readme-stats-34hhbtnen-delias16hernandez-1001s-projects.vercel.app/api/top-langs/?username=elibabah&layout=compact&hide_border=true&theme=transparent\")",
+      "Bash(curl -s -L -o /dev/null -w \"final_url=%{url_effective} status=%{http_code}\\\\n\" \"https://github-readme-stats-34hhbtnen-delias16hernandez-1001s-projects.vercel.app/api/top-langs/?username=elibabah&layout=compact&hide_border=true&theme=transparent\")",
+      "Bash(curl -s -o /dev/null -w \"status=%{http_code}\\\\n\" \"https://github-readme-stats-34hhbtnen-delias16hernandez-1001s-projects.vercel.app/api/top-langs/?username=elibabah&layout=compact&hide_border=true&theme=transparent\")"
+    ]
+  }
+}
